@@ -8,3 +8,6 @@ Class <br />
 python -m unittest unittests.GaTests <br />
 method <br />
 python -m unittest unittests.GaTests.test_chromosome_length <br />
+
+Run sample: <br />
+![alt text](sample.PNG)
